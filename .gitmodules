@@ -1,0 +1,3 @@
+[submodule "glide-away"]
+	path = glide-away
+	url = https://github.com/sweepenergy/glide-away.git
